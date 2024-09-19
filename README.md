@@ -1,4 +1,4 @@
-# 〇、 因为Gui For Singbox无法识别，修改原仓库生成的规则文件中的“version 2”为“version 1”。
+##  因为Gui For Singbox无法识别规则文件中的“version 2”，因此修改原仓库生成的规则文件为“version 1”。
 # 一、 geodata 规则集文件说明
 ## 1. 文件类型
 ① Clash geodata 规则集文件，包括：geosite.dat、geoip.dat、Country.mmdb 和 geoip.metadb、ASN.mmdb（仅限 [mihomo 内核](https://github.com/MetaCubeX/mihomo)）等  
